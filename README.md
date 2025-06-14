@@ -17,9 +17,9 @@ A powerful modal editor with extensive customization and scripting capabilities.
 
 'Vim exercise.txt'
 
-![alt text](vim1.JPG)
+![alt text](/vim1.JPG)
 
-![alt text](vim2.JPG)
+![alt text](/vim2.JPG)
 
 ## Nano Editor
 
@@ -36,6 +36,6 @@ A simple, user-friendly editor ideal for beginners.
 
 'nano existing_file.txt'
 
-![alt text](nano.JPG)
+![alt text](/nano.JPG)
 
-![alt text](nano1.JPG)
+![alt text](/nano1.JPG)
