@@ -50,19 +50,20 @@ A simple, user-friendly editor ideal for beginners. Among linux text editors, na
 
 'nano nano_file.txt'
 
-'nano existing_file.txt'
+![alt text](/nano.JPG)
 
 ![alt text](/nano2.JPG)
 
-![alt text](/nano.JPG)
-
-![alt text](/nano3.JPG)
+'nano existing_file.txt'
 
 ![alt text](/nano1.JPG)
 
+![alt text](/nano3.JPG)
 
 ### Open an existing file
 
 'nano existing_file.txt'
 
 ![alt text](/nano1.JPG)
+
+![alt text](/nano3.JPG)
