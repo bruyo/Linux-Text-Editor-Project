@@ -31,6 +31,8 @@ A powerful modal editor with extensive customization and scripting capabilities.
 
 ## Enter the insert mode and type on it
 
+![alt text](/vim.JPG)
+
 ![alt text](/vim2.JPG)
 
 ## Nano Editor
@@ -50,7 +52,11 @@ A simple, user-friendly editor ideal for beginners. Among linux text editors, na
 
 'nano existing_file.txt'
 
+![alt text](/nano2.JPG)
+
 ![alt text](/nano.JPG)
+
+![alt text](/nano3.JPG)
 
 ![alt text](/nano1.JPG)
 
